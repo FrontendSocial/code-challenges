@@ -18,6 +18,9 @@ const calendarEvents = [
 ]
 ```
 
+![Input](https://raw.githubusercontent.com/FrontendSocial/code-challenges/master/01-events-calendar/input.png)
+
+
 ## output
 ```
 {
@@ -37,3 +40,4 @@ const calendarEvents = [
 }
 ```
 
+![Output](https://raw.githubusercontent.com/FrontendSocial/code-challenges/master/01-events-calendar/output.png)
